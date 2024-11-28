@@ -1,2 +1,1 @@
-# Repositorio19.19
-primeiroapp
+git clone https://github.com/JoViScGo/IONIC_Biologia.git
